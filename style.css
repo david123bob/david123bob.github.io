@@ -7,6 +7,7 @@ p {
 }
 h1 {
   color:white;
+  txt-align: center;
 }
 a{
   color:red;
